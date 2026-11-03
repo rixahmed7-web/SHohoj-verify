@@ -1,0 +1,6 @@
+{
+  "name": "Shohoj Aviation Academy Certificate Verification System",
+  "description": "Official certificate verification portal and administration management system for Shohoj Aviation Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
